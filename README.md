@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Del Piero Flores Chagua
+I'm Del Piero Flores
 
 A student in the ninth semester of my Mechatronics Engineering program. I'm the electronics and strategy chief of [KON Team](https://www.konteam.com/), working on the design of an electric vehicle prototype to compete in the [Shell Eco-Marathon](https://www.makethefuture.shell/en-gb/shell-eco-marathon). I'm interested in the design and implementation of control methods in embedded systems and the research in autonomous vehicles. 
 
