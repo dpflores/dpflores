@@ -2,7 +2,7 @@
 
 I'm Del Piero Flores
 
-Bachelor of Mechatronic Engineering at the University of Engineering and Technology - UTEC. Programming of industrial IoT devices using IO-Link, CAN Bus, TCP/IP technologies for mobile and on-site solutions. Interested in monitoring projects and autonomous systems. 
+Bachelor of Mechatronic Engineering at the University of Engineering and Technology - UTEC. Programming of industrial IoT devices using IO-Link, CAN Bus, TCP/IP technologies for mobile and on-site solutions. Interested in monitoring projects, industrial automation and autonomous systems. 
 
 ### I work with...
 
