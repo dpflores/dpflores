@@ -4,6 +4,8 @@ I'm Del Piero Flores
 
 Bachelor of Mechatronic Engineering at the University of Engineering and Technology - UTEC. Programming of industrial IoT devices using IO-Link, CAN Bus, TCP/IP technologies for mobile and on-site solutions. Interested in monitoring projects and autonomous systems. 
 
+### I work with...
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
@@ -20,10 +22,10 @@ Bachelor of Mechatronic Engineering at the University of Engineering and Technol
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
 
-###
+### You can find on...
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" href="https://www.linkedin.com/in/del-piero-flores/"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
